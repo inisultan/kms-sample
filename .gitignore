@@ -1,0 +1,10 @@
+docker-generated/
+build/
+bin/
+.gradle/
+.classpath/
+.settings/
+.project
+gradle/
+/.classpath
+
